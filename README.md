@@ -11,7 +11,7 @@ INventaryMAnagement.ipynb - > contain all details of functions
 
 2.py - >contain all details of functions(python file)
 
-...........The system contain multiple functionalities as follows..........
+...........The system contain multiple FUNCTIONILITIES as follows..........
 
 1)  addnewInInventary(): add new product in Invetory
 
